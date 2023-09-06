@@ -1,4 +1,4 @@
-For the latest working version check the [releases page](https://git.hacksaar.de/Mathew3000/celed/-/releases "releases page")
+This is a Mirror of: [ceLED](https://git.hacksaar.de/Mathew3000/celed/ "base page")
 
 # CeLED
 
